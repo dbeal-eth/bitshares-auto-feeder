@@ -1,0 +1,5 @@
+{
+    "symbol": "USD",
+    "url": "http://data.bter.com/api/1/ticker/btsx_usd",
+    "key": "last"
+}
